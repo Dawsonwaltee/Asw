@@ -17,18 +17,18 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557780285734",
+    "61550114432457",
     "",
     "",
     "",
     ""
   ],
   "GOD": [
-    "61557780285734",
+    "6155",
     ""
   ],
   "DEV": [
-    "61557780285734",
+    "61",
     ""
   ],
   "whiteListMode": {
@@ -36,7 +36,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𓆩𝙀𝙇𝙄𝙏𝙀 𝙀𝙁-𝙋𝙍𝙄𝙈𝙀 ",
+  "nickNameBot": "custom bot by Dawson 🤖ℹ️ ",
   "authorName": "Frank kaumba",
   "authorFB": "https://www.facebook.com/profile.php?id=61557780285734",
   "authorEmail": "efkidgamer@gmail.com",
